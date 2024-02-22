@@ -1,3 +1,7 @@
+Configurando GIT
+git config --global user.name itsquelc
+git config --global user.email raquelnunescirino@gmail.com
+
 Criar o projeto
 npx create-expo-app silvinhaHealthApp
 
@@ -7,6 +11,8 @@ npx expo install react-dom react-native-web @expo/webpack-config
 Executar o projeto
 npx expo start
 
-Configurando GIT
-git config --global user.name itsquelc
-git config --global user.email raquelnunescirino@gmail.com
+Restaurar o projeto
+nmp i
+
+Executar o projeto  com celular
+npx expo start --localhost --android
