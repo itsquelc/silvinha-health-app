@@ -12,7 +12,13 @@ Executar o projeto
 npx expo start
 
 Restaurar o projeto
-nmp i
+npm i
 
 Executar o projeto  com celular
 npx expo start --localhost --android
+
+Criar pasta e arquivos
+src\components\Tittle\index.js
+
+index.js para criar componente
+rnf
