@@ -6,7 +6,9 @@ import styles from './styles'
 export default function Tittle() {
   return (
     <View style={styles.boxtTittle}>
-      <Text style={styles.textTittle}>Tittle</Text>
+      <Text style={styles.textTittle}>
+        Silvinha Health App
+      </Text>
     </View>
   )
 }

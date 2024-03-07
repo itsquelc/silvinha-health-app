@@ -22,3 +22,12 @@ src\components\Tittle\index.js
 
 index.js para criar componente
 rnf
+
+<TextInput />
+caixa de texto
+
+<TouchableOpacity>
+Clique
+
+Aparece um alerta
+onPress={() => alert("Apertei o botão!!")}
