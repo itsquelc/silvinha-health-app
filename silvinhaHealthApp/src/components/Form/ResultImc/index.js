@@ -4,10 +4,10 @@ import React from 'react'
 export default function ResultImc(props) {
   return (
     <View style={styles.container}>
-        <Text styles={styles.text}>
+        <Text style={styles.text}>
           {props.messageResult}
         </Text>
-      <Text styles={styles.textImc}>
+      <Text style={styles.textImc}>
           {props.resultImc}
         </Text>
     </View>
